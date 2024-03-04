@@ -9,7 +9,6 @@
     "resolveJsonModule": true,
     "emitDeclarationOnly": true,
     "declaration": true,
-    "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "jsx": "react",
     "strict": true,
